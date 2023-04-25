@@ -4,7 +4,7 @@ class AnimatedStatus {
 	/* BD functions */
 	getName() { return "Animated Status"; }
 	getVersion() { return "0.13.2"; }
-	getAuthor() { return "toluschr"; }
+	getAuthor() { return "dylan"; }
 	getDescription() { return "Animate your Discord status"; }
 
 	SetData(key, value) {
